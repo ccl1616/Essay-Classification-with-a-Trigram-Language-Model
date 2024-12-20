@@ -1,0 +1,15 @@
+Log Probability of the first sentence: -62.58246810320475
+Testing Perplexity: 304.5447911102221
+Sample sentence: ['the', 'blade', 'came', 'out', 'with', 'a', 'UNK', '!']
+Raw Unigram Probability of '('the',)': 0.056658540702227214
+unigram count 61428 1084179
+Raw Bigram Probability of '('START', 'the')': 0.13163839092613064
+bigram count 5478
+Raw Trigram Probability of '('START', 'START', 'the')': 4.0435081476689173e-05
+trigram count 5478
+essay_scoring: 0.8625498007968128
+['richardson', 'had', 'returned', 'from', 'the', 'national', 'interest', 'had', 'two', 'important', 'church', 'figures', 'is', 'now', 'a', 'standard', 'for', 'subsequent', 'dartmouth', 'gatherings']
+['clerfayt', ',', 'transported', ',', 'may', 'be', 'referred', 'to', 'trailers', 'without', 'specifying', 'the', 'type', 'of', 'locks', 'used', 'on', 'each', 'other', 'quietly']
+['except', 'for', 'the', 'needs', 'of', 'individual', 'totals', 'of', 'piety', 'and', 'detachment', '.', 'STOP']
+['men', 'of', 'history', 'is', 'properly', 'aligned', ',', 'the', 'emperor', "'s", 'lions', '.', 'STOP']
+['2', '-rrb-', 'extension', 'and', 'its', 'score', 'a', 'shapeless', 'assemblage', 'of', 'inhabited', 'dwellings', 'whose', 'configuration', 'is', 'determined', 'by', 'a', 'patience', 'and']
