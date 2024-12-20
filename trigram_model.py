@@ -7,7 +7,7 @@ import os.path
 """ 
 Essay Classification with a Trigram Language Mode
 
-Student: Julie Cheng (cc5210)
+Student: Julie Cheng
 Instructor: Daniel Bauer
 """
 
