@@ -15,7 +15,7 @@ This project implements a trigram-based statistical language model and evaluate 
 ## Algorithm & Techniques Used
 
 - **N-Gram Language Modeling**:
-  - Probabilistic modeling using frequency counts of n-grams.
+  - Probabilistic modeling using frequency counts of n-grams. N-gram language model algorithm can be referenced at [Speech and Language Processing Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf).
   - Raw probabilities for unigrams, bigrams, and trigrams.
   ![Trigram Language Model Diagram](https://miro.medium.com/v2/resize:fit:885/1*AeneIZX0g2kZ4sj9p2k7Ew.png)
     [Reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fayselaydin.medium.com%2F7-understanding-n-grams-in-nlp-03109b218113&psig=AOvVaw04tbwQmPBp6qtV8LM57HtB&ust=1734811302595000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCLi3mO6Rt4oDFQAAAAAdAAAAABAY)
