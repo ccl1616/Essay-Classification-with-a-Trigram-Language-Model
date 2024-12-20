@@ -28,12 +28,6 @@ This project implements a trigram-based statistical language model and evaluate 
 - **Essay Scoring Experiment**:
   - Classifies essays into "high" or "low" quality based on perplexity.
 
-## Data Preparation
-
-1. **Corpus Reader**: Reads text files and processes sentences into word sequences. Words not in the lexicon are replaced with a special token (`UNK`).
-2. **Lexicon Construction**: Builds a lexicon of words appearing more than once in the corpus. Adds `START`, `STOP`, and `UNK` tokens for preprocessing.
-3. **N-Grams**: Generates unigram, bigram, and trigram sequences with appropriate padding (`START`, `STOP`).
-
 ## Workflow
 
 1. **Data Preparation**:
